@@ -2,7 +2,7 @@
 <img src="frontbox.png" alt="projeto-finalizado" />
 </p>
 
-# Projeto Site Frontbox
+# ✨Projeto Site Frontbox
 
 ## Introdução
 
